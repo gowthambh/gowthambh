@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi! I'm Gowtham B H
 Pre-final year student at VIT University (Chennai Campus) AIML | ROBOTICS | IOT
 
 
