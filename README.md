@@ -1,28 +1,85 @@
-## Gowtham B H
+<a href="https://gbhportfolio.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img alt="Gowtham B H. I take on the problems that don't have a path yet." src="assets/header-light.svg" width="100%">
+  </picture>
+</a>
 
-I take on the problems that don't have a path yet.
+I'm an AI engineer in Chennai. I turn rough ideas into software people actually use, and I own the work end to end, from the first conversation to the release. Open to AI engineering roles, remote.
 
-I'm an AI engineer in Chennai. I turn rough ideas into software people actually use, and I own the work end to end, from the first conversation to the release. I'm open to AI engineering roles, remote.
+[Portfolio](https://gbhportfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/gowthambh) · [Medium](https://medium.com/@gowthambh) · [Instagram](https://www.instagram.com/gowtham_b_h/) · gowthambh9903@gmail.com
 
-**Portfolio:** [gbhportfolio.vercel.app](https://gbhportfolio.vercel.app) · **Email:** gowthambh9903@gmail.com · [LinkedIn](https://www.linkedin.com/in/gowthambh)
+### Pick a door
 
-### What I've built
+<details>
+<summary><b>I'm hiring</b></summary>
+<br>
 
-- **[Tailrd](https://tailrd.web.app)**: job seekers waste hours rewriting resumes. Tailrd rewrites one for any job description, runs ATS fit checks, and writes the cover letter. Built and shipped solo, 50+ users.
-- **Voice AI agents for clinics**: clinics miss calls and patients miss appointments. My agent books the appointment by phone, adds it to the clinic's calendar, and calls the patient back with a reminder at the time they chose.
-- **Medicinal plant identification engine** (Q.DoTZ): one model wasn't good enough on real field photos, so I built a three-model pipeline from scratch. About 30% more accurate than any single model.
-- **Quantum ML for Alzheimer's**: a hybrid quantum-classical CNN for classifying MRI scans, benchmarked against classical CNNs.
+- I build LLM apps, voice agents, and computer vision systems, and I ship them myself.
+- At Q.DoTZ I led researchers and interns across 12 R&D initiatives.
+- I built Tailrd solo and got it to 50+ users.
+- Python, PyTorch, LangGraph, RAG, Flask, PostgreSQL with pgvector, Firebase, Vertex AI, Docker.
 
-### Where I've worked
+The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/gowthambh) or email. My resume is on [the portfolio](https://gbhportfolio.vercel.app).
+</details>
 
-- **Your Space, Virtually**, founder and AI engineer (2025 to now). A digital agency: websites, local SEO, and voice agents for clients across time zones.
-- **Q.DoTZ S.T.E.M. India**, AI engineer (2025 to 2026). Led researchers and interns across 12 R&D initiatives.
-- **VIT Chennai**, B.Tech in AI and Robotics (2021 to 2025). Co-founded VITC Vaazhkai, a Tamil student community of 4,000+.
+<details>
+<summary><b>I'm building something</b></summary>
+<br>
 
-### What I work with
+I like day zero: no spec, no data, no clear path. I scope the problem with you, build the first version, and keep going until it's in people's hands. I also run [Your Space, Virtually](https://gbhportfolio.vercel.app), a small agency that builds websites, local SEO, and voice agents for businesses in several countries.
 
-Python, PyTorch, TensorFlow, LangGraph, LangChain, RAG, voice agents, computer vision, Flask, PostgreSQL with pgvector, Firebase, Vertex AI, Docker.
+If your problem doesn't have a path yet, I'd like to hear about it.
+</details>
 
-Outside code I'm a photographer and a business consultant. Long term, I want to build something big in agritech.
+<details>
+<summary><b>Just looking around</b></summary>
+<br>
 
-I write on [Medium](https://medium.com/@gowthambh) and post photos on [Instagram](https://www.instagram.com/gowtham_b_h/).
+I'm also a photographer, I co-founded VITC Vaazhkai (a Tamil student community of 4,000+), and I write on [Medium](https://medium.com/@gowthambh). Long term, I want to build something big in agritech.
+</details>
+
+### Problems I didn't have a path for
+
+Click one to see what happened.
+
+<details>
+<summary><b>Job seekers spend hours rewriting the same resume</b></summary>
+<br>
+
+**What I did:** built [Tailrd](https://tailrd.web.app). It rewrites your resume for any job description, runs ATS fit checks, and writes the cover letter.
+
+**Result:** shipped solo, 50+ users.
+</details>
+
+<details>
+<summary><b>Clinics miss calls, and patients miss appointments</b></summary>
+<br>
+
+**What I did:** built a voice agent that answers the phone, books the appointment, adds it to the clinic's calendar, and calls the patient back with a reminder at the time they chose.
+</details>
+
+<details>
+<summary><b>One model couldn't identify medicinal plants in real field photos</b></summary>
+<br>
+
+**What I did:** at Q.DoTZ, built the identification engine from scratch, owned the data pipeline, and combined three models instead of trusting one.
+
+**Result:** about 30% more accurate than any single model on real field data.
+</details>
+
+<details>
+<summary><b>Could quantum ML help classify Alzheimer's from MRI scans?</b></summary>
+<br>
+
+**What I did:** built a hybrid quantum-classical CNN and benchmarked it against classical CNNs.
+
+**Result:** independent research, written up on the [portfolio](https://gbhportfolio.vercel.app).
+</details>
+
+<details>
+<summary><b>Drone images needed to stay secure on the way to the server</b></summary>
+<br>
+
+**What I did:** DroMOD, real-time object detection on drones with multi-tier encryption on the images it sends.
+</details>
