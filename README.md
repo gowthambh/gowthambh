@@ -48,6 +48,7 @@ Click one to see what happened.
 <br>
 
 **What I did:** built [Tailrd](https://tailrd.web.app). It rewrites your resume for any job description, runs ATS fit checks, and writes the cover letter.
+
 **Result:** shipped solo, 50+ users.
 </details>
 
@@ -63,6 +64,7 @@ Click one to see what happened.
 <br>
 
 **What I did:** at Q.DoTZ, built the identification engine from scratch, owned the data pipeline, and combined three models instead of trusting one.
+
 **Result:** about 30% more accurate than any single model on real field data.
 </details>
 
@@ -71,6 +73,7 @@ Click one to see what happened.
 <br>
 
 **What I did:** built a hybrid quantum-classical CNN and benchmarked it against classical CNNs.
+
 **Result:** independent research, written up on the [portfolio](https://gbhportfolio.vercel.app).
 </details>
 
