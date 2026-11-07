@@ -69,7 +69,7 @@ Click one to see what happened.
 </details>
 
 <details>
-<summary><b>Could quantum ML help classify Alzheimer's from MRI scans?</b></summary>
+<summary><b>Nobody knew if quantum ML could classify Alzheimer's from MRI scans</b></summary>
 <br>
 
 **What I did:** built a hybrid quantum-classical CNN and benchmarked it against classical CNNs.
